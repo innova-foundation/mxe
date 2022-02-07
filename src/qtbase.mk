@@ -63,7 +63,6 @@ define $(PKG)_BUILD
             -system-freetype \
             -system-harfbuzz \
             -system-pcre \
-            -openssl-linked \
             -dbus-linked \
             -no-pch \
             -v \
